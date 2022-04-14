@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# React Portfolio #
+A project to practice React by making myself a rockstar React coding portfolio. 
+
+Project features:
+- mobile-first design
+- React to render content
+- Thematic headers, footers, Navigation on all pages 
+- Works! lol
+
+
+# Getting Started with Create React App #
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
