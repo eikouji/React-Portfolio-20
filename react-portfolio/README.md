@@ -7,6 +7,17 @@ Project features:
 - Thematic headers, footers, Navigation on all pages 
 - Works! lol
 
+# NPM Libraries: #
+- Font Awesome Free Brand SVG Icons and Free Solid SVG Icons
+- Font Awesome React
+- Emailjs 
+- Animate.css
+- Advanced Animations: GSap trial 
+- loaders.css - to add a loader animation between pages.
+- react-leaflet - for the map in Contact section
+- react loaders
+- react-router-dom - help navigate through pages 
+- sass
 
 # Getting Started with Create React App #
 
