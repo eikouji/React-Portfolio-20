@@ -22,6 +22,16 @@ $english-lavender: #be92a2ff;
 }
 
 @font-face {
-  font-family: 'La Belle Aurore',;
-  src: url('./assets/LaBelleAurore-Regular.ttf')
+  font-family: 'BarlowCondensed-Regular.tff',;
+  src: url('./assets/fonts/BarlowCondensed-Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'BreeSerif-Regular.tff',;
+  src: url('./assets/fonts/BreeSerif-Regular.tff') format('ttf');
+}
+
+input, 
+textarea {
+  font-family: 'Helvetica Neue;';
 }
