@@ -1,3 +1,17 @@
+/* color scheme */
+/* CSS HEX */
+* {
+--bone: #eae0ccff;
+--silver-pink: #c9ada1ff;
+--artichoke: #a0a083ff;
+--xanadu: #798478ff;
+--deep-space-sparkle: #4d6a6dff;
+
+--font-size: 18px;
+--font-family: 
+
+};
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +25,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
