@@ -17,7 +17,7 @@ Project features:
 - react-leaflet - for the map in Contact section
 - react loaders
 - react-router-dom - help navigate through pages 
-- sass
+- sass?
 
 # Getting Started with Create React App #
 
