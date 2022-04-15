@@ -1,18 +1,11 @@
 
 :root {
   /* main colors */
---bone: #eae0ccff;
---silver-pink: #c9ada1ff;
---artichoke: #a0a083ff;
---xanadu: #798478ff;
---deep-dark-blue: #13191a;
-
-/* secondary colors */
---sky-blue-crayola: #69ddffff;
---baby-blue-eyes: #96cdffff;
---lavender-web: #d8e1ffff;
---pink-lavender: #dbbaddff;
---english-lavender: #be92a2ff;
+  --text-black: #121717;
+  --blue-grey: #8A98BC;
+  --peach-tone: #FACE9E;
+  --white-color: #FEF4EC;
+  --deep-red: #4A0808;
 
 --font-size: 18px;
 --font-family: 
@@ -46,8 +39,8 @@ html {
 body {
   margin: 0;
   font-family: 300 11px/1.4 'Helvetica Neue', 'sans-serif';
-  color: var(--xanadu);
-  background: var(--deep-dark-blue);
+  color: var();
+  background: var(--deep-red);
   overflow: hidden;
   display: block;
   -webkit-font-smoothing: antialiased;
@@ -56,17 +49,26 @@ body {
 
 
 /* Header styles */
-
+header {
+  background: var(--white-color);
+}
 
 /* About styles */
 
 
 
-/* coding portfolio styles */
+/* coding portfolio tiles */
+.coding-portfolio-tile {
+  background: var(--blue-grey);
+
+}
 
 /* resume styles */
 
 /* footer styles */
+footer {
+  background: var(--white-color);
+}
 
 
 

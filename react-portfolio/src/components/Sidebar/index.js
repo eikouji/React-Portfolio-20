@@ -1,8 +1,7 @@
 
 import { Link } from 'react-router-dom'
 import './index.scss'
-import myLogo from '../../assets/images/logo-example.png'
-import myLogoSubtitle from '../../assets/images/logo-subtitle-example.png'
+import myLogo from '../../assets/images/bulb.png'
 
 const Sidebar = () => (
     <div className ='nav-bar'>
